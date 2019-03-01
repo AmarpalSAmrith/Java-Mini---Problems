@@ -9,6 +9,9 @@ public class LeapingforJoy {
         System.out.println("====================================================================");
         System.out.print(">");
         int userInput = Utilities.condNo(1);
+        if (userInput == -1) {
+            System.out.println("Please enter a valid number and try again!");
+            System.exit(-1);}
         int counter = 0;
         for (int i = 2019; counter < userInput; i++) {
             if (i % 4 == 0) {

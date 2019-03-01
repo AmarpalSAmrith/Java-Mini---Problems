@@ -9,8 +9,7 @@ public class Utilities {
         Scanner scanner = new Scanner(System.in);
 
         if (!(scanner.hasNextInt())) {
-            System.out.println("Please enter a valid number and try again!");
-            System.exit(-1);
+            return -1;
         }
 
         int noInput = scanner.nextInt();
