@@ -10,9 +10,19 @@ public class SummingUp {
         System.out.println("================");
         System.out.println("Please provide a number greater than 1 :)");
         System.out.print(">");
-        int input = scanner.nextInt();
+
+        if (!(scanner.hasNextInt())) {
+            System.out.println("Please enter a valid number and try again!");
+            System.exit(-1);
+        }
+        String input = scanner.next();
+        int noInput = Integer.parseInt(input);
+        if (noInput < 1) {
+            System.out.println("Please enter a number greater than 1 and try again!");
+            System.exit(-1);
+        }
         int total = 0;
-        for (int i = 1; i <= input; i++) {
+        for (int i = 1; i <= noInput; i++) {
             if ((i % 3 ==0) || (i % 5 == 0)){
                 total += i;
             }
