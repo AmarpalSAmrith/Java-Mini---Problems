@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e91ba815-6be8-40bb-999e-2bde784a23c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SummingUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SummingUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="210">
+              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -55,8 +53,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="265">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -78,9 +85,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Main.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Greetings.java" />
-        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SummingUp.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java" />
+        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" />
+        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java" />
       </list>
     </option>
   </component>
@@ -136,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeapingforJoy">
+  <component name="RunManager" selected="Application.PrimeTime">
     <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.Greetings" />
       <module name="Java-Mini---Problems" />
@@ -173,6 +181,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.PrimeTime" />
+      <module name="Java-Mini---Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmarpalAmrith.JaveMiniProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SummingUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.SummingUp" />
       <module name="Java-Mini---Problems" />
@@ -191,9 +212,11 @@
       <item itemvalue="Application.Greetings" />
       <item itemvalue="Application.SummingUp" />
       <item itemvalue="Application.LeapingforJoy" />
+      <item itemvalue="Application.PrimeTime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeTime" />
         <item itemvalue="Application.LeapingforJoy" />
         <item itemvalue="Application.SummingUp" />
         <item itemvalue="Application.Greetings" />
@@ -211,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551435096931</updated>
-      <workItem from="1551435098196" duration="5633000" />
+      <workItem from="1551435098196" duration="9777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5633000" />
+    <option name="totallyTimeSpent" value="9777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
@@ -251,18 +274,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -287,15 +298,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="265">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>

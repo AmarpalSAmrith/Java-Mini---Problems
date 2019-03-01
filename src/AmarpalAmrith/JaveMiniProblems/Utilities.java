@@ -22,4 +22,14 @@ public class Utilities {
         return noInput;
     }
 
+    public static void msgPrompt(String msg) {
+        System.out.println(msg);
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i = 1; i <= msg.length(); i++) {
+
+            stringBuilder.append("=");
+        }
+        System.out.println(stringBuilder);
+        System.out.print(">");
+    }
 }
