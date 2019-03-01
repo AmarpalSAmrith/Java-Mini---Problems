@@ -11,9 +11,6 @@ public class PrimeTime {
             if (checkifPrime(i)) {
                 System.out.println(i + " is a prime number!");
             }
-            //else {
-                //System.out.println(userInput + " is not a prime number!");
-            //}
         }
     }
 
