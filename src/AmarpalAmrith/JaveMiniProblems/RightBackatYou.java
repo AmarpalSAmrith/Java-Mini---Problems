@@ -18,7 +18,7 @@ public class RightBackatYou {
         }
         System.out.println("The numbers are:");
 
-        for (int i = 0; i < myintList.size(); i++){
+        for (int i = myintList.size() - 1; i >= 0 ; i--) {
             System.out.println(myintList.get(i));
         }
 
