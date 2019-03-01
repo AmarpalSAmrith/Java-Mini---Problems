@@ -13,7 +13,10 @@ public class SummingUp {
         int input = scanner.nextInt();
         int total = 0;
         for (int i = 1; i <= input; i++) {
-            total += i;
+            if ((i % 3 ==0) || (i % 5 == 0)){
+                total += i;
+            }
+
         }
         System.out.println("The total from 1 to " + input + " is: " + total);
 
