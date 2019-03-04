@@ -19,7 +19,7 @@ public class YouveBeenFramed {
         System.out.println(frame);
     }
 
-    public static int wordLength(String text) {
+    private static int wordLength(String text) {
         String[] parts = text.split(" ");
         int maxLength = 0;
         for (int i = 0; i < parts.length; i++) {
@@ -30,7 +30,7 @@ public class YouveBeenFramed {
         return maxLength;
     }
 
-    public static String symbolBuilder(String symbolString, int maxLength) {
+    private static String symbolBuilder(String symbolString, int maxLength) {
         StringBuilder stringBuilder = new StringBuilder();
         for (int i = 1; i <= maxLength; i++) {
 
