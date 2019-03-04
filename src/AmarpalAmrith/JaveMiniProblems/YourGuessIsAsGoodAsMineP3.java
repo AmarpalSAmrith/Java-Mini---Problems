@@ -8,11 +8,9 @@ public class YourGuessIsAsGoodAsMineP3 {
         Utilities.msgPrompt("Hi, please think of a number, and i will try and guess it!");
         Scanner scanner = new Scanner(System.in);
         int guessNo = 0;
-        boolean closer = false;
-        while (!liarLiarPantsOnFire(loNo,hiNo)){ //&& !closer) {
+        while (!liarLiarPantsOnFire(loNo,hiNo)){
             int currNo = guessBetween(loNo,hiNo);
             System.out.println("Is your number greater than or smaller than " + currNo + ". Tell me, is it 'too big', 'too small' or 'correct'");
-            //System.out.println("Is your number greater than or smaller than " + currNo + ". Tell me, is it 'too big' " + hiNo + ", 'too small' " + loNo + " or 'correct'");
             System.out.print(">");
             String proximity = scanner.nextLine();
             if (proximity.equals("too big")) {
@@ -23,7 +21,6 @@ public class YourGuessIsAsGoodAsMineP3 {
                 guessNo++;
             } else if (proximity.equals("correct")) {
                 System.out.println("wooo! i guessed your number is " + currNo + " in " + guessNo + " guesses");
-                //closer = true;
             }
         }
         System.out.println("You changed your number! screw you!!");
