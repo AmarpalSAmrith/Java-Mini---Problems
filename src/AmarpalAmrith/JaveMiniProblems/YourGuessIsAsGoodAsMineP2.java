@@ -25,7 +25,7 @@ public class YourGuessIsAsGoodAsMineP2 {
             }
         }
     }
-    private static int randBetween(int lo,int hi) {
+    public static int randBetween(int lo,int hi) {
         Random randNo = new Random();
         int rn = randNo.nextInt(hi - lo) +lo;
         return rn;
