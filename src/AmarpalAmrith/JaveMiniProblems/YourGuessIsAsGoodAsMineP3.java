@@ -20,6 +20,7 @@ public class YourGuessIsAsGoodAsMineP3 {
                 loNo = currNo;
                 guessNo++;
             } else if (proximity.equals("correct")) {
+                guessNo++;
                 System.out.println("wooo! i guessed your number is " + currNo + " in " + guessNo + " guesses");
             }
         }
