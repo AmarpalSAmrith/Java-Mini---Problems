@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Utilities {
 
+    public static void validNumber(int condNo) {
+        if (condNo == -1) {
+            System.out.println("Please enter a valid number and try again!");
+            System.exit(-1);
+        }
+    }
+
     public static int condNo(int lowerVal){
 
         Scanner scanner = new Scanner(System.in);
@@ -31,4 +38,6 @@ public class Utilities {
         System.out.println(stringBuilder);
         System.out.print(">");
     }
+
+
 }

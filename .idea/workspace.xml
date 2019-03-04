@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e91ba815-6be8-40bb-999e-2bde784a23c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/HowManyRabbits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YouveBeenFramed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Greetings.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -35,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SummingUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="370">
               <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
@@ -44,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+            <state relative-caret-position="270">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -53,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -74,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SeeingDouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="161">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -83,16 +76,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="122">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YouveBeenFramed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/HowManyRabbits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
+            <state relative-caret-position="375">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -118,17 +129,19 @@
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SummingUp.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java" />
-        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/RightBackatYou.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SeeingDouble.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/HowManyRabbits.java" />
+        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YouveBeenFramed.java" />
+        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" />
+        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMine.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="823" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -177,20 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HowManyRabbits">
-    <configuration name="HowManyRabbits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.HowManyRabbits" />
-      <module name="Java-Mini---Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AmarpalAmrith.JaveMiniProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.YourGuessIsAsGoodAsMine">
     <configuration name="LeapingforJoy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.LeapingforJoy" />
       <module name="Java-Mini---Problems" />
@@ -217,8 +217,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightBackatYou" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.RightBackatYou" />
+    <configuration name="SeeingDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.SeeingDouble" />
       <module name="Java-Mini---Problems" />
       <extension name="coverage">
         <pattern>
@@ -230,8 +230,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeeingDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.SeeingDouble" />
+    <configuration name="YourGuessIsAsGoodAsMine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.YourGuessIsAsGoodAsMine" />
+      <module name="Java-Mini---Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AmarpalAmrith.JaveMiniProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YouveBeenFramed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.YouveBeenFramed" />
       <module name="Java-Mini---Problems" />
       <extension name="coverage">
         <pattern>
@@ -246,17 +259,17 @@
     <list>
       <item itemvalue="Application.LeapingforJoy" />
       <item itemvalue="Application.PrimeTime" />
-      <item itemvalue="Application.RightBackatYou" />
       <item itemvalue="Application.SeeingDouble" />
-      <item itemvalue="Application.HowManyRabbits" />
+      <item itemvalue="Application.YouveBeenFramed" />
+      <item itemvalue="Application.YourGuessIsAsGoodAsMine" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HowManyRabbits" />
+        <item itemvalue="Application.YourGuessIsAsGoodAsMine" />
+        <item itemvalue="Application.YouveBeenFramed" />
         <item itemvalue="Application.SeeingDouble" />
-        <item itemvalue="Application.RightBackatYou" />
-        <item itemvalue="Application.PrimeTime" />
         <item itemvalue="Application.LeapingforJoy" />
+        <item itemvalue="Application.PrimeTime" />
       </list>
     </recent_temporary>
   </component>
@@ -270,15 +283,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551435096931</updated>
-      <workItem from="1551435098196" duration="17091000" />
+      <workItem from="1551435098196" duration="23821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17091000" />
+    <option name="totallyTimeSpent" value="23821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -325,31 +338,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java">
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/HowManyRabbits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/LeapingforJoy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SummingUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="370">
           <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/SeeingDouble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="161">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -363,17 +376,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java">
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/PrimeTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/HowManyRabbits.java">
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="122">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YouveBeenFramed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
         </state>
       </provider>
     </entry>
