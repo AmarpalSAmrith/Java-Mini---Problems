@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e91ba815-6be8-40bb-999e-2bde784a23c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/IgpayAtinlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/IgpayAtinlay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="164">
@@ -107,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/IgpayAtinlay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="129">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -145,12 +145,12 @@
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YouveBeenFramed.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/Utilities.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP2.java" />
-        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP3.java" />
         <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/IgpayAtinlay.java" />
+        <option value="$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP3.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
@@ -202,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IgpayAtinlay">
+  <component name="RunManager" selected="Application.YourGuessIsAsGoodAsMineP3">
     <configuration name="IgpayAtinlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmarpalAmrith.JaveMiniProblems.IgpayAtinlay" />
       <module name="Java-Mini---Problems" />
@@ -277,8 +277,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IgpayAtinlay" />
         <item itemvalue="Application.YourGuessIsAsGoodAsMineP3" />
+        <item itemvalue="Application.IgpayAtinlay" />
         <item itemvalue="Application.YourGuessIsAsGoodAsMineP2" />
         <item itemvalue="Application.YourGuessIsAsGoodAsMine" />
         <item itemvalue="Application.YouveBeenFramed" />
@@ -295,16 +295,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551435096931</updated>
-      <workItem from="1551435098196" duration="34091000" />
+      <workItem from="1551435098196" duration="39087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34091000" />
+    <option name="totallyTimeSpent" value="39087000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
@@ -319,7 +318,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33013698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49382716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,6 +425,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/IgpayAtinlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/YourGuessIsAsGoodAsMineP3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -436,13 +442,6 @@
             <element signature="e#1582#1583#0" expanded="true" />
             <element signature="e#1618#1619#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AmarpalAmrith/JaveMiniProblems/IgpayAtinlay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
